@@ -1,0 +1,317 @@
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+    font-family: "Maven Pro", sans-serif;
+}
+.navbar {
+    height: 120px;
+}
+.navbar #navbarSupportedContent ul li a {
+    color: #230f0f;
+}
+.learning {
+    height: 797px;
+}
+
+.navbar .navbar-brand {
+    font-family: Maven Pro;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #313273;
+}
+.learning h1 {
+    width: 557px;
+    font-size: 68px;
+    font-weight: 800;
+    line-height: 92px;
+    color: #230f0f;
+    top: 60px;
+}
+.learning p {
+    width: 532px;
+    height: 99px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    top: 80px;
+}
+#partners {
+    height: 188px;
+}
+#partners p {
+    width: 308px;
+    height: 84px;
+    top: 57px;
+    font-family: Maven Pro;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#contact button {
+    width: 212px;
+    height: 64px;
+    top: 137px;
+    padding: 20px 32px 20px 32px;
+    border-radius: 6px;
+    gap: 10px;
+    background-color: #4d4d4d;
+}
+#contact {
+    height: 587px;
+}
+#contact h1 {
+    width: 561px;
+    height: 120px;
+    top: 72px;
+    font-family: Maven Pro;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.4000000059604645px;
+}
+#contact img {
+    top: 72px;
+}
+#contact p {
+    width: 590px;
+    height: 198px;
+    font-family: Maven Pro;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #230f0f;
+    top: 102px;
+}
+
+#button {
+    height: 52px;
+    top: 161px;
+}
+#course h1 {
+    top: 57px;
+}
+#btn {
+    width: 149px;
+    height: 52px;
+    top: 58px;
+    padding: 14px 40px 14px 40px;
+    border-radius: 8px;
+    border: 1px;
+    gap: 10px;
+    border: 1px solid #4d4d4d;
+    color: #4d4d4d;
+}
+
+#course {
+    height: 1400px;
+}
+#cards {
+    top: 190px;
+}
+#cards button {
+    padding: 9px 30px 9px 30px;
+    border-radius: 8px;
+    border: 1px;
+    gap: 10px;
+    border: 1px solid #4d4d4d;
+    color: #4d4d4d;
+    font-family: Maven Pro;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+#cards .col {
+    width: 368px;
+    height: 480px;
+    border-radius: 8px;
+}
+.card-body {
+    width: 320px;
+    height: 242px;
+}
+.card-title {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0.6000000238418579px;
+    width: 320px;
+    height: 72px;
+}
+.card-text {
+    font-family: Maven Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 320px;
+    height: 72px;
+    color: #4d4d4d;
+}
+#title {
+    height: 54px;
+    top: 57px;
+}
+hr {
+    top: 170px;
+    height: 1px;
+    border-radius: 12px;
+    background: #dcdce5;
+}
+.original-price {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.discounted-price {
+    color: #4d4d4d;
+    font-weight: bold;
+}
+#CTA {
+    height: 400px;
+    background: #4d4d4d;
+}
+#CTA h1 {
+    width: 574px;
+    height: 162px;
+    top: 70px;
+    font-family: Maven Pro;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+#CTA button {
+    top: 105px;
+    padding: 22px 40px 22px 40px;
+    border-radius: 6px;
+    gap: 10px;
+    font-family: Maven Pro;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+#img {
+    background-image: url(images/Ellipse\ 70.png);
+    background-repeat: no-repeat;
+    top: 20px;
+}
+#Graduated {
+    height: 541px;
+}
+#Graduated h1 {
+    height: 42px;
+    top: 75px;
+    font-family: Maven Pro;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    letter-spacing: 0.6000000238418579px;
+    color: #0a0a0a;
+}
+#brand1 {
+    height: 80px;
+    top: 119px;
+    gap: 70px;
+}
+#brand2 {
+    height: 80px;
+    top: 149px;
+    gap: 70px;
+}
+#brand3 {
+    height: 80px;
+    top: 179px;
+    gap: 70px;
+}
+#content {
+    height: 574px;
+}
+#content hr {
+    width: 566px;
+    height: 1px;
+    top: 110px;
+    color:  #DCDCE5;
+    
+}
+#content h1 {
+    width: 355px;
+    height: 60px;
+    top: 78px;
+    font-family: Maven Pro;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.4000000059604645px;
+}
+#content p {
+    width: 566px;
+    height: 180px;
+    top: 100px;
+    font-family: Maven Pro;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4000000059604645px;
+    color:  #4D4D4D;
+    
+}#content h3{
+font-size: 26px;
+font-weight: 600;
+line-height: 39px;
+letter-spacing: 0.4000000059604645px;
+color: #1C1D4E;
+
+}
+#briana p{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.4000000059604645px;
+color:  #80848E;
+
+}
+#about {
+    height: 393px;
+}
+#about p {
+    font-family: Maven Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: left;
+    color: #4d4d4d;
+}
+#row1 {
+    width: 340px;
+    height: 244px;
+    top: 64px;
+}
+#about h3 {
+    top: 64px;
+    font-family: Maven Pro;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: left;
+    color: #0a0a0a;
+}
+
+#icon {
+    color: #086bed;
+    width: 143px;
+}
